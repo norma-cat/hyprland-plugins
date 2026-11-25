@@ -103,3 +103,5 @@ exec-once = hyprctl plugin load "$HYPR_PLUGIN_DIR/lib/libhyprexpo.so"
 ## Contributing
 
 Feel free to open issues and MRs with fixes.
+
+See [local verification and hosted exceptions](CI-LOCAL.md) before running CI.
